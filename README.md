@@ -9,10 +9,10 @@
   * [DEPLOYMENT](#deployment)  
   * [USAGE](#usage)
   * [LICENSE](#license)  
-  * [TESTS](#tests)  
 
   ## DEMO
-  
+  ![Screenshot (581)](https://user-images.githubusercontent.com/96558916/155904271-9575c725-677f-4bff-8bbf-4a56178deadc.png)
+
 
   ## Deployment
   [Check out the video here](https://drive.google.com/file/d/1d7gyuRUgCWbZWXL3v6yRXw5kY2KJB7YH/view)
