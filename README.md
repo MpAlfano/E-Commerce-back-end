@@ -15,7 +15,7 @@
   
 
   ## Deployment
-  [Check out the video here](https://drive.google.com/file/d/14MFCAClaN5ZHQJUiS2FZ12bAQRH9YpNB/view)
+  [Check out the video here](https://drive.google.com/file/d/1d7gyuRUgCWbZWXL3v6yRXw5kY2KJB7YH/view)
 
   ## Usage
 
